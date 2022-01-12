@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexJPaton
 - 👀 I’m interested in invasive species management and wildlife monitoring technology. 
-- 🌱 I’m currently learning occupancyand secr modelling . 
+- 🌱 I’m currently learning occupancy and secr modelling . 
 - 💞️ I’m looking to share some of the data wrangling code I have been working with camelot exports. It is not the best code you will ever run, but it will run. 
 
 
